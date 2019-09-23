@@ -1,0 +1,31 @@
+# Accumulated photometry of sn2008if 
+# MJD          Mag       Err       LimMag    Passband  Telescope Filename  
+54830.47       16.50     0.01      nan       B         kait4     unk       
+54830.47       16.24     0.02      nan       V         kait4     unk       
+54830.47       15.99     0.02      nan       R         kait4     unk       
+54830.47       15.82     0.02      nan       I         kait4     unk       
+54830.47       15.93     0.06      nan       clear     kait4     unk       
+54835.41       16.05     0.04      nan       clear     kait4     unk       
+54863.37       16.56     0.10      nan       clear     kait4     unk       
+54889.40       17.23     0.11      nan       clear     kait4     unk       
+54916.23       18.74     0.35      nan       clear     kait4     unk       
+54827.38       16.33     0.02      nan       B         kait4     unk       
+54827.38       16.19     0.06      nan       V         kait4     unk       
+54827.38       15.89     0.05      nan       R         kait4     unk       
+54827.38       15.70     0.05      nan       I         kait4     unk       
+54833.40       16.59     0.05      nan       B         kait4     unk       
+54833.40       16.33     0.03      nan       V         kait4     unk       
+54833.40       16.03     0.05      nan       R         kait4     unk       
+54833.40       15.86     0.08      nan       I         kait4     unk       
+54839.35       17.03     0.03      nan       B         kait4     unk       
+54839.35       16.47     0.01      nan       V         kait4     unk       
+54839.35       16.15     0.02      nan       R         kait4     unk       
+54839.35       15.99     0.02      nan       I         kait4     unk       
+54901.97       18.95     0.06      nan       V         nickel2   unk       
+54901.97       17.98     0.03      nan       R         nickel2   unk       
+54901.97       17.52     0.03      nan       I         nickel2   unk       
+54866.00       16.51     0.01      nan       R         nickel2   unk       
+54920.95       20.89     0.17      nan       B         nickel2   unk       
+54920.95       19.25     0.05      nan       V         nickel2   unk       
+54920.95       18.26     0.02      nan       R         nickel2   unk       
+54920.95       17.80     0.02      nan       I         nickel2   unk       

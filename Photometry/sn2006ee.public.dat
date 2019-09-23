@@ -1,0 +1,32 @@
+# Accumulated photometry of sn2006ee 
+# MJD          Mag       Err       LimMag    Passband  Telescope Filename  
+53994.13       17.56     0.02      nan       R         nickel1   unk       
+53994.13       17.27     0.02      nan       I         nickel1   unk       
+53995.02       18.60     0.03      nan       B         nickel1   unk       
+53995.02       17.90     0.01      nan       V         nickel1   unk       
+53995.02       17.59     0.01      nan       R         nickel1   unk       
+53995.02       17.22     0.02      nan       I         nickel1   unk       
+54029.04       18.94     0.03      nan       B         nickel1   unk       
+54029.04       17.94     0.01      nan       V         nickel1   unk       
+54029.04       17.48     0.01      nan       R         nickel1   unk       
+54029.04       17.07     0.01      nan       I         nickel1   unk       
+54030.06       19.20     0.02      nan       B         nickel1   unk       
+54030.06       17.94     0.01      nan       V         nickel1   unk       
+54030.06       17.50     0.01      nan       R         nickel1   unk       
+54063.96       18.81     0.04      nan       V         nickel1   unk       
+53966.45       17.71     0.02      nan       B         kait3     unk       
+53966.45       17.66     0.04      nan       V         kait3     unk       
+53966.45       17.42     0.04      nan       R         kait3     unk       
+53966.45       17.25     0.07      nan       I         kait3     unk       
+53968.50       17.78     0.02      nan       B         kait3     unk       
+53968.50       17.68     0.04      nan       V         kait3     unk       
+53968.50       17.37     0.04      nan       R         kait3     unk       
+53968.50       17.16     0.07      nan       I         kait3     unk       
+53970.44       17.83     0.02      nan       B         kait3     unk       
+53970.44       17.70     0.03      nan       V         kait3     unk       
+53970.44       17.38     0.03      nan       R         kait3     unk       
+53970.44       17.17     0.05      nan       I         kait3     unk       
+53972.44       17.89     0.03      nan       B         kait3     unk       
+53972.44       17.68     0.04      nan       V         kait3     unk       
+53972.44       17.38     0.04      nan       R         kait3     unk       
+53972.44       17.11     0.06      nan       I         kait3     unk       

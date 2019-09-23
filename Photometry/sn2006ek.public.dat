@@ -1,0 +1,14 @@
+# Accumulated photometry of sn2006ek 
+# MJD          Mag       Err       LimMag    Passband  Telescope Filename  
+53972.99       19.79     0.05      nan       B         nickel1   unk       
+53972.99       19.61     0.06      nan       V         nickel1   unk       
+53972.99       19.09     0.05      nan       R         nickel1   unk       
+53972.99       18.64     0.06      nan       I         nickel1   unk       
+53973.96       19.78     0.06      nan       B         nickel1   unk       
+53973.96       19.41     0.05      nan       V         nickel1   unk       
+53973.96       18.97     0.05      nan       R         nickel1   unk       
+53973.96       18.46     0.04      nan       I         nickel1   unk       
+54028.85       21.56     0.28      nan       B         nickel1   unk       
+54028.85       20.02     0.10      nan       V         nickel1   unk       
+54028.85       19.19     0.05      nan       R         nickel1   unk       
+54028.85       18.32     0.04      nan       I         nickel1   unk       

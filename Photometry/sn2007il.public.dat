@@ -1,0 +1,18 @@
+# Accumulated photometry of sn2007il 
+# MJD          Mag       Err       LimMag    Passband  Telescope Filename  
+54449.69       19.44     0.06      nan       B         nickel1   unk       
+54449.69       17.76     0.01      nan       R         nickel1   unk       
+54449.69       17.35     0.01      nan       I         nickel1   unk       
+54379.15       18.50     0.03      nan       B         nickel1   unk       
+54379.15       18.06     0.01      nan       V         nickel1   unk       
+54379.15       17.74     0.01      nan       R         nickel1   unk       
+54379.15       17.51     0.01      nan       I         nickel1   unk       
+54380.19       18.06     0.01      nan       V         nickel1   unk       
+54380.19       17.75     0.01      nan       R         nickel1   unk       
+54380.19       17.55     0.01      nan       I         nickel1   unk       
+54391.17       18.17     0.08      nan       V         nickel1   unk       
+54422.06       17.71     0.01      nan       R         nickel1   unk       
+54422.06       17.28     0.02      nan       I         nickel1   unk       
+54429.95       19.23     0.06      nan       B         nickel1   unk       
+54430.84       19.47     0.09      nan       B         nickel1   unk       
+54430.84       17.31     0.02      nan       I         nickel1   unk       
