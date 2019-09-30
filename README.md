@@ -5,6 +5,7 @@ You can find:
 
 - 150 spectra gathered with the 3 m Shane telescope (Lick Observatory). 
 
-**If you use the data, please cite: de Jaeger et al. 2019**
+**If you use the data, please cite: de Jaeger et al. 2019**  
+https://academic.oup.com/mnras/advance-article/doi/10.1093/mnras/stz2714/5579029?guestAccessKey=56e4f303-d32c-44bd-8d33-f016f8802188
 
 
